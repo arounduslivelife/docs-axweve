@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-sjsm2v.deposit1casino.co.nz/sitemap.xml
